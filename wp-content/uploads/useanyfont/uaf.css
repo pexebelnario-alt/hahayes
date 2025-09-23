@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "chantal";
+  src: url("/wp-content/uploads/useanyfont/5570Chantal.woff2") format("woff2"),
+    url("/wp-content/uploads/useanyfont/5570Chantal.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+
+.chantal {
+  font-family: "chantal" !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "chantal" !important;
+}
